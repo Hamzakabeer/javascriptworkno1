@@ -16,7 +16,7 @@
 
 // alert("22 years old");
 
-// alert("Certified Mobile Application Development");
+// alert("one day inshallah I will be a software engineer");
 
 // // Js Variables
 // alert("PIZZA\nPIZZ\nPIZ\nPI\nP");
